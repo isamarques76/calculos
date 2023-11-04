@@ -16,7 +16,7 @@ namespace Calculos
         }
 
         public int Subtrair(int x, int y){
-            return x-y; 
+            return x-y;
         }
         
 
